@@ -165,6 +165,7 @@
 - repo_url: https://github.com/hpc/charliecloud
 - repo_url: https://github.com/cp2k/cp2k
 - repo_url: https://github.com/hpc-io/vol-async
+- repo_url: https://github.com/hpc-io/vol-cache
 - repo_url: https://github.com/lammps/lammps
 - repo_url: https://github.com/libunwind/libunwind
 - repo_url: https://gitlab.com/remikz/nccmp

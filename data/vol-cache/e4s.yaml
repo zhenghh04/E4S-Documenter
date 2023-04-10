@@ -1,0 +1,7 @@
+- e4s_product: vol-cache
+  version: 1.1
+  docs: [README.md, LICENSE]
+  spack_name: hdf5-vol-cache
+  area: Data & Viz
+  Description: "HDF5 Cache I/O VOL Connector for caching data on node-local storage and memory"
+  MemberProduct: True
